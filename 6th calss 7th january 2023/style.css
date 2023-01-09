@@ -1,0 +1,116 @@
+/* p{
+   background-color: rgb(221, 208, 192);
+    color: #6666;
+   text-shadow: 2px 1px 0px red;
+} 
+
+p#change:first-letter {
+   font-size: 60px ;
+} 
+
+p#change::first-line{
+   font-weight: bold;
+}
+
+
+
+
+
+ a.format:link{
+    color: red;
+    text-decoration:none ;
+} 
+
+ a.format:visited{
+     color: blue;
+} */
+
+
+/* input:hover{ 
+   background-color: brown;
+} 
+
+ button:active{
+   background-color: chartreuse;
+} 
+
+p[class="cat"]{
+    color: blue;
+ 
+} */
+
+
+/* p[class~="cat"]{
+   color: blue;
+
+}
+
+img{
+   width: 100%;
+}
+
+
+
+.jani{
+   border: 2px  solid red;
+   width: 600px;
+   
+   min-height: 200px;
+  overflow: scroll;
+}
+
+
+.jani{
+   border: 2px solid red;
+   background-color: yellow;
+
+} */
+
+
+
+/* p{
+   margin: 5px;
+   padding: 10px;
+   background-color: brown;
+}
+
+
+/* .jani{
+   width: 50%;
+   border: 10px solid green;
+   margin: 0  auto;
+} */
+
+
+
+
+li{
+   display: inline;
+} 
+
+
+/* h1{
+   text-align: center;
+   color: brown;
+   text-shadow: 2px 2px 3px black;
+}  */
+
+
+/* div{
+   border:2px solid crimson;
+   box-shadow:5px 5px 3px green ;
+   border-radius: 10px;
+   text-align: center;
+} */
+
+
+
+
+/* ol{
+   list-style: upper-roman;
+} */
+
+
+/* ul{
+   list-style: inside square;
+}  */
